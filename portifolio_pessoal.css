@@ -1,0 +1,206 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(185, 214, 214);
+    margin: 0;
+}
+
+h1
+{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: -1px;
+    height: auto;
+    padding: 15px;
+    margin-bottom: 0;
+    background-image: url(https://woz-u.com/wp-content/uploads/2022/06/Evolution-of-Coding-scaled.jpg);
+    background-size: 500px 250px;
+    background-repeat: repeat;
+    border: 5px outset rgb(31, 116, 150);
+}
+
+h2
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(185, 214, 214);
+    margin: 0px;
+    padding: 10px;
+    margin-top: 0;
+}
+
+h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(157, 247, 157);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: -1px;
+    margin-bottom: -1px;
+}
+
+h4
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(157, 247, 157);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: -1px;
+    margin-bottom: -1px;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 0px;
+    font-size: 17px;
+    text-align: left;
+    height: auto;
+    width: auto;
+    padding: auto;
+    margin: auto;
+}
+
+a
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding: 2px;
+}
+
+a:hover
+{
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+
+a:link
+{
+    color:red;
+}
+
+.borda
+{
+    border: 5px groove rgb(31, 116, 150);
+    height: auto;
+}
+
+.introducao
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:rgb(7, 44, 36);
+    background-color: rgb(185, 214, 214);
+    padding: 15px;
+    height: 50px;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 0px;
+}
+
+hr
+{
+    margin: 0px;
+    background-color: 185,214,214;
+}
+
+.palavra-vermelha
+{
+    color:red; 
+}
+
+.menu
+{
+    background-color: rgb(185, 214, 214);
+    padding: 20px;
+    text-align: center;
+    margin-top: -1px;
+    margin-bottom: 0px;
+}
+
+.menu li 
+{
+    list-style-type: none;
+    display: inline-block;
+    background-color: rgb(166, 199, 221);
+    border: 5px outset rgb(31, 116, 150);
+}
+
+.menu a
+{
+    background-color: #e9e8e8;
+    padding: 20px;
+    margin-bottom: 0;
+    display: block;
+}
+
+.menu a:hover 
+{
+    background-color: rgb(44, 185, 162);
+    color: white;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+.ufjf
+{
+    width: 72px;
+    position: absolute;
+}
+
+.cor-de-fundo
+{
+    background-color: rgb(185, 214, 214);
+    padding: 2px 5px;
+}
+
+.corpo
+{
+    width: 90%;
+    margin: auto;
+}
+
+article
+{
+    background-color: white;
+    padding: 16px;
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+
+.titulo
+{
+    border-bottom: 2px solid #ccc;
+    background-color: #eee;
+    padding: 10px;
+    margin-top: 0;
+    display: block;
+    width: 99%;
+}
+
+.btn
+{
+    background-color: #dfd9d9;
+    display: inline-block;
+    padding: 12px;
+    border-radius: 6px;
+    width: fit-content;
+}
+
+footer
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #868585;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 2px black;
+}
